@@ -1,6 +1,8 @@
 # AddToWallet Flutter plugin
 
 A flutter plugin exposing the native `Add To Wallet` iOS button.
+This fork is a fix for iOS crash and Android not building.
+Working with flutter version 3.10.5
 
 ## How
 
