@@ -3,6 +3,15 @@
 
 .packages
 .pub/
+.idea/
+.vscode/
+.dart_tool/
+build/
+
+*.lock
+*.pid
+*.lockfile
 
 build/
 .fvm
+
